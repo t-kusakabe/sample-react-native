@@ -1,0 +1,11 @@
+{
+  "name": "sample-react-native",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github_pri/t-kusakabe/sample-react-native.git",
+  "author": "t-kusakabe <ttmac0704@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react-native-cli": "^2.0.1"
+  }
+}
