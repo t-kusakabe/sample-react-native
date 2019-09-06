@@ -5,5 +5,7 @@
   "repository": "ssh://git@github_pri/t-kusakabe/sample-react-native.git",
   "author": "t-kusakabe <ttmac0704@gmail.com>",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "expo-cli": "^3.0.10"
+  }
 }
